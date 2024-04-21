@@ -1,0 +1,6 @@
+From: adam@friendnet
+To: john@friendnet
+Subject: Logo
+
+this is an image test
+Attachment: Screenshot_2023-05-20_at_16.49.09-removebg-preview.png

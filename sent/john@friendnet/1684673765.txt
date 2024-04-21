@@ -1,0 +1,7 @@
+From: john@friendnet
+To: adam@friendnet
+Subject: Yay
+
+Lol
+
+<img src="mail/adam@friendnet/" alt="Photo">

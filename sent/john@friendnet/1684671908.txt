@@ -1,0 +1,7 @@
+From: john@friendnet
+To: adam@friendnet
+Subject: Noooo
+
+Uh oh
+
+<img src="mail/adam@friendnet/IMG_7482.png" alt="Photo">

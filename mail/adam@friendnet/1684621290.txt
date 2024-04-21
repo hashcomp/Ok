@@ -1,0 +1,5 @@
+From: john@friendnet
+To: adam@friendnet
+Subject: Hello
+
+Hi Adam, How are you

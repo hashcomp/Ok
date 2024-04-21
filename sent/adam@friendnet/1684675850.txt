@@ -1,0 +1,7 @@
+From: adam@friendnet
+To: Jude@friendnet
+Subject: Wow it’s me
+
+Look
+
+<img src="mail/Jude@friendnet/image.jpg" alt="Photo">

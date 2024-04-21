@@ -1,0 +1,6 @@
+From: adam@friendnet
+To: john@friendnet
+Subject: test
+
+image test
+Attachment: adamr.jpeg

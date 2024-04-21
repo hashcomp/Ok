@@ -1,0 +1,5 @@
+From: adam@friendnet
+To: Jude@friendnet
+Subject: test
+
+This is a haha funny test mail

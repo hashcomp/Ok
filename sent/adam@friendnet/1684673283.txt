@@ -1,0 +1,7 @@
+From: adam@friendnet
+To: john@friendnet
+Subject: Hi
+
+refresh test
+
+<img src="mail/john@friendnet/" alt="Photo">
