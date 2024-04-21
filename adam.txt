@@ -1,0 +1,32 @@
+Profile Picture: 6515c166a0652.png
+Username: adam
+Joined Date: 20-05-2023
+Bio: Hi, I’m Adam. I created this site :) RIP <b>whsprr</b>
+Interests: Coding, Connecting, photography/videography, playing Games, having fun!
+Status: no
+Age: 14
+Favourite movie: Thor Ragnarok, The Matrix, Truman Show, Rogue One
+Favourite TV Show: Mandalorian, Yellowstone, Community, Halo and the clone wars
+Favourite Music: bad piggies, funny feeling
+<img src='profile_pics/646901b571602.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'><img src='profile_pics/646901efbd0fa.jpeg' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/64691cfc7e8c4.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646931c3d0f02.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646936ed08411.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646936ee44175.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646936f04a82e.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646936f34cd0d.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+CSS: <style>body {background-image: url('20393730.jpg');background-repeat: no-repeat;background-repeat: no-repeat; background-size: cover;}</style>
+<img src='uploads/646b10bf2ef41.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646b5cc150c25.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646ba522cde5c.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646ba526ec2b1.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646ba52957ada.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646ba529a1a2f.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646ba529d13bc.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646ba52a03307.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646ba52a20c5f.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646ba52a53d52.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646ba52a7b616.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646ba52aa5dd3.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646ba52abf6cc.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>
+<img src='uploads/646ba52ae588b.png' style='height: 150px; width: 150px; object-fit: contain; margin-right: 10px;'>

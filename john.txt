@@ -1,0 +1,9 @@
+Username: john
+Joined Date: 20-05-2023
+Bio: John
+Interests: John
+Status: I have no status :(
+Age: Age has not been uploaded yet :(
+Favourite movie: john doesn't have a favorite movie yet :(
+Favourite TV Show: john doesn't have a favorite tv show yet :(
+Favourite Music: john doesn't have favorite music yet :(
